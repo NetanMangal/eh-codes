@@ -1,0 +1,14 @@
+# Nmap 7.80 scan initiated Thu Sep 24 12:34:13 2020 as: nmap -Pn -sS -p- -T4 --defeat-rst-ratelimit --max-retries 1 -oN /root/Desktop/kioptrix1_tcp.txt 10.0.2.8
+Nmap scan report for 10.0.2.8
+Host is up (0.00018s latency).
+Not shown: 65529 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+1024/tcp open  kdm
+MAC Address: 08:00:27:20:00:00 (Oracle VirtualBox virtual NIC)
+
+# Nmap done at Thu Sep 24 12:34:23 2020 -- 1 IP address (1 host up) scanned in 10.72 seconds

